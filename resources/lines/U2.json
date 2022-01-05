@@ -1,0 +1,180 @@
+{
+  "type": "U",
+  "name": "U2",
+  "route": [
+    {
+      "type": "connecting",
+      "name": "Pankow",
+      "code": "PAN#U2",
+      "position": 0.0
+    },
+    {
+      "type": "through",
+      "name": "Vinetastraße",
+      "code": "VIN",
+      "position": 1.5
+    },
+    {
+      "type": "connecting",
+      "name": "Schönhauser Allee",
+      "code": "SHA#U2",
+      "position": 3.5
+    },
+    {
+      "type": "through",
+      "name": "Eberswalder Straße",
+      "code": "EBE",
+      "position": 5.0
+    },
+    {
+      "type": "through",
+      "name": "Senefelderplatz",
+      "code": "SEN",
+      "position": 7.0
+    },
+    {
+      "type": "through",
+      "name": "Rosa-Luxemburg-Platz",
+      "code": "RLP",
+      "position": 9.0
+    },
+    {
+      "type": "connecting",
+      "name": "Alexanderplatz",
+      "code": "ALX#U2",
+      "position": 11.0
+    },
+    {
+      "type": "through",
+      "name": "Klosterstraße",
+      "code": "KLO",
+      "position": 13.0
+    },
+    {
+      "type": "through",
+      "name": "Märkisches Museum",
+      "code": "MMU",
+      "position": 14.5
+    },
+    {
+      "type": "through",
+      "name": "Spittelmarkt",
+      "code": "SPM",
+      "position": 15.5
+    },
+    {
+      "type": "through",
+      "name": "Hausvogteiplatz",
+      "code": "HVP",
+      "position": 17.0
+    },
+    {
+      "type": "connecting",
+      "name": "Stadtmitte",
+      "code": "STM#U2",
+      "position": 18.5
+    },
+    {
+      "type": "through",
+      "name": "M-Straße",
+      "code": "MST",
+      "position": 19.5
+    },
+    {
+      "type": "connecting",
+      "name": "Potsdamer Platz",
+      "code": "PDP#U2",
+      "position": 21.0
+    },
+    {
+      "type": "through",
+      "name": "Mendelssohn-Bartholdy-Park",
+      "code": "MBP",
+      "position": 22.5
+    },
+    {
+      "type": "connecting",
+      "name": "Gleisdreieck",
+      "code": "GDE#U2",
+      "position": 24.0
+    },
+    {
+      "type": "through",
+      "name": "Bülowstraße",
+      "code": "BUE",
+      "position": 26.0
+    },
+    {
+      "type": "connecting",
+      "name": "Nollendorfplatz",
+      "code": "NOL#U2",
+      "position": 27.5
+    },
+    {
+      "type": "connecting",
+      "name": "Wittenbergplatz",
+      "code": "WIT",
+      "position": 29.5
+    },
+    {
+      "type": "connecting",
+      "name": "Zoologischer Garten",
+      "code": "ZOO#U2",
+      "position": 31.5
+    },
+    {
+      "type": "through",
+      "name": "Ernst-Reuter-Platz",
+      "code": "ERP",
+      "position": 33.5
+    },
+    {
+      "type": "through",
+      "name": "Deutsche Oper",
+      "code": "DOP",
+      "position": 35.5
+    },
+    {
+      "type": "connecting",
+      "name": "Bismarckstraße",
+      "code": "BIS",
+      "position": 36.5
+    },
+    {
+      "type": "through",
+      "name": "Sophie-Charlotte-Platz",
+      "code": "SCP",
+      "position": 38.0
+    },
+    {
+      "type": "connecting",
+      "name": "Kaiserdamm",
+      "code": "KSD",
+      "position": 39.5
+    },
+    {
+      "type": "through",
+      "name": "Theodor-Heuss-Platz",
+      "code": "THP",
+      "position": 41.0
+    },
+    {
+      "type": "through",
+      "name": "Neu-Westend",
+      "code": "NWE",
+      "position": 43.0
+    },
+    {
+      "type": "through",
+      "name": "Olympia-Stadion",
+      "code": "OLU",
+      "position": 44.5
+    },
+    {
+      "type": "through",
+      "name": "Ruhleben",
+      "code": "RUH",
+      "position": 46.5
+    }
+  ]
+}

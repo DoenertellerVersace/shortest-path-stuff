@@ -1,0 +1,72 @@
+{
+  "type": "U",
+  "name": "U1",
+  "route": [
+    {
+      "type": "through",
+      "name": "Uhlandstraße",
+      "code": "UHL",
+      "position": 0.0
+    },
+    {
+      "type": "connecting",
+      "name": "Kurfürstendamm",
+      "code": "KUR#U1",
+      "position": 1.5
+    },
+    {
+      "type": "connecting",
+      "name": "Wittenbergplatz",
+      "code": "WIT",
+      "position": 3.0
+    },
+    {
+      "type": "connecting",
+      "name": "Nollendorfplatz",
+      "code": "NOL#U3",
+      "position": 4.5
+    },
+    {
+      "type": "through",
+      "name": "Kurfürstenstraße",
+      "code": "KUS",
+      "position": 6.0
+    },
+    {
+      "type": "connecting",
+      "name": "Gleisdreieck",
+      "code": "GDE#U1.3",
+      "position": 8.0
+    },
+    {
+      "type": "through",
+      "name": "Prinzenstraße",
+      "code": "PRI",
+      "position": 9.5
+    },
+    {
+      "type": "connecting",
+      "name": "Kotbusser Tor",
+      "code": "KOT#U1.3",
+      "position": 11.0
+    },
+    {
+      "type": "through",
+      "name": "Görlitzer Bahnhof",
+      "code": "GLB",
+      "position": 12.5
+    },
+    {
+      "type": "through",
+      "name": "Schlesisches Tor",
+      "code": "SST",
+      "position": 14.0
+    },
+    {
+      "type": "connecting",
+      "name": "Warschauer Straße",
+      "code": "WAR#U1.3",
+      "position": 16.0
+    }
+  ]
+}
